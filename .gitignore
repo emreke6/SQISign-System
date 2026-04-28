@@ -1,0 +1,7 @@
+# Better: Ignore ALL Vivado run folders anywhere in the repo using a wildcard
+*.runs/
+*.hw/
+*.sim/
+*.cache/
+*.ip_user_files/
+__pycache__/
